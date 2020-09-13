@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ComeCocos.MainPage">
+    <StackLayout>
+        <Frame x:Name="scorePanel" BackgroundColor="Pink" Padding="10, 0, 10, 0" Margin="0, 20, 0, 0" VerticalOptions="Start" HorizontalOptions="Center">
+            <Label Text="{Binding StringScore}" TextColor="White"/>
+        </Frame>
+
+        <AbsoluteLayout x:Name="canvas" VerticalOptions="FillAndExpand">
+            <Image x:Name="enemy1" Source="enemy" WidthRequest="30" HeightRequest="30" IsVisible="False"/>
+            <Image x:Name="enemy2" Source="enemy" WidthRequest="30" HeightRequest="30" IsVisible="False"/>
+            <Image x:Name="enemy3" Source="enemy" WidthRequest="30" HeightRequest="30" IsVisible="False"/>
+            <Image x:Name="enemy4" Source="enemy" WidthRequest="30" HeightRequest="30" IsVisible="False"/>
+            <Image x:Name="enemy5" Source="enemy" WidthRequest="30" HeightRequest="30" IsVisible="False"/>
+
+            <Image x:Name="character" Source="character" AbsoluteLayout.LayoutBounds="0.5,0.5,30,30" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        </AbsoluteLayout>
+
+        <Frame x:Name="buttonPanel" BackgroundColor="Pink" Padding="10, 0, 10, 0" VerticalOptions="End" HorizontalOptions="Center">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                <Button Clicked="LeftButtonCLicked" Text="left" TextColor="White" Padding="10, 0, 10, 0"/>
+                <Button Clicked="UpButtonClicked" Text="up" TextColor="White" Padding="10, 0, 10, 0"/>
+                <Button Clicked="ShrinkButtonClicked" Text="shrink" TextColor="White" Padding="10, 0, 10, 0"/>
+                <Button Clicked="DownButtonClicked" Text="down" TextColor="White" Padding="10, 0, 10, 0"/>
+                <Button Clicked="RightButtonClicked" Text="right" TextColor="White" Padding="10, 0, 10, 0"/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

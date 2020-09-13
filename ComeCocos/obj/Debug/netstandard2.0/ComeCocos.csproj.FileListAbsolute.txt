@@ -1,0 +1,14 @@
+/Users/sroman/Desktop/ComeCocos/ComeCocos/bin/Debug/netstandard2.0/ComeCocos.deps.json
+/Users/sroman/Desktop/ComeCocos/ComeCocos/bin/Debug/netstandard2.0/ComeCocos.dll
+/Users/sroman/Desktop/ComeCocos/ComeCocos/bin/Debug/netstandard2.0/ref/ComeCocos.dll
+/Users/sroman/Desktop/ComeCocos/ComeCocos/bin/Debug/netstandard2.0/ComeCocos.pdb
+/Users/sroman/Desktop/ComeCocos/ComeCocos/obj/Debug/netstandard2.0/ComeCocos.csprojAssemblyReference.cache
+/Users/sroman/Desktop/ComeCocos/ComeCocos/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sroman/Desktop/ComeCocos/ComeCocos/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/sroman/Desktop/ComeCocos/ComeCocos/obj/Debug/netstandard2.0/ComeCocos.AssemblyInfoInputs.cache
+/Users/sroman/Desktop/ComeCocos/ComeCocos/obj/Debug/netstandard2.0/ComeCocos.AssemblyInfo.cs
+/Users/sroman/Desktop/ComeCocos/ComeCocos/obj/Debug/netstandard2.0/ComeCocos.csproj.CoreCompileInputs.cache
+/Users/sroman/Desktop/ComeCocos/ComeCocos/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/sroman/Desktop/ComeCocos/ComeCocos/obj/Debug/netstandard2.0/ComeCocos.dll
+/Users/sroman/Desktop/ComeCocos/ComeCocos/obj/Debug/netstandard2.0/ref/ComeCocos.dll
+/Users/sroman/Desktop/ComeCocos/ComeCocos/obj/Debug/netstandard2.0/ComeCocos.pdb

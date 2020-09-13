@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DE7C82E3-1F2B-4D12-B791-2E5C9A40131A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComeCocos/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ComeCocos/MainPage.xaml" Line="26" Column="17" />
+      <File FileName="ComeCocos/MainPage.xaml.cs" Line="181" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComeCocos" expanded="True">
+            <Node name="ComeCocos" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ComeCocos.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.ComeCocos.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E08E5891-CA2C-426E-ABDF-F4440871FB4A" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
